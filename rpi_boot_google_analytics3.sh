@@ -1,4 +1,4 @@
-# rpi_boot_universalanalytics.sh
+# rpi_boot_google_analytics3.sh
 # Triggers Google Universal Analytics endpoint upon boot
 #
 # Julien Coquet
